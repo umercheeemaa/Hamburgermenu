@@ -72,7 +72,7 @@ a{
     box-shadow: 3px 3px 10px 3px #aaaaaa55 ;
     padding-top: 50px;
     padding-bottom: 50px;
-    transition: transform ease-in 0.5s ;
+    transition: transform ease-in 0.2s ;
 }
 
 .hamburger-items a {
